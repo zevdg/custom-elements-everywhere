@@ -20,7 +20,7 @@
     "ts-loader": "5.3.3",
     "typescript": "3.2.2",
     "umd-compat-loader": "2.1.1",
-    "webpack": "3.12.0"
+    "webpack": "4.28.4"
   },
   "dependencies": {
     "@dojo/core": "2.0.0",
